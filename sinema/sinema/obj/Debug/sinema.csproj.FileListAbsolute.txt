@@ -1,0 +1,9 @@
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\4-Sinema Büfe Satış Paneli\sinema\sinema\bin\Debug\sinema.exe.config
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\4-Sinema Büfe Satış Paneli\sinema\sinema\bin\Debug\sinema.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\4-Sinema Büfe Satış Paneli\sinema\sinema\bin\Debug\sinema.pdb
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\4-Sinema Büfe Satış Paneli\sinema\sinema\obj\Debug\sinema.csprojResolveAssemblyReference.cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\4-Sinema Büfe Satış Paneli\sinema\sinema\obj\Debug\sinema.Form1.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\4-Sinema Büfe Satış Paneli\sinema\sinema\obj\Debug\sinema.Properties.Resources.resources
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\4-Sinema Büfe Satış Paneli\sinema\sinema\obj\Debug\sinema.csproj.GenerateResource.Cache
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\4-Sinema Büfe Satış Paneli\sinema\sinema\obj\Debug\sinema.exe
+C:\Users\alpar\OneDrive\Masaüstü\C# Projelerim\4-Sinema Büfe Satış Paneli\sinema\sinema\obj\Debug\sinema.pdb
